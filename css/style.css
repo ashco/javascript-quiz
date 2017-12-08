@@ -1,5 +1,6 @@
 body {
-	background: #4CA6FF;
+	background: url(../img/technoZebra.jpg);
+	background-size: cover;
 }
 
 .ansArea {
@@ -15,7 +16,8 @@ h1 {
 }
 
 #quizBox {
-	background-color: #BADDFF;
+	background-color: #000;
+	color: #fff;
 	margin: 10% 0;
 	min-height: 360px;
 }

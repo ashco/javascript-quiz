@@ -111,11 +111,7 @@ function doneWithTest(input) {
   }
 }
 
-
-
-
-
-  generateBoard(currentQuestion);
-  init();
+generateBoard(currentQuestion);
+init();
 
 }())
